@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugo build output
+/public/
+/resources/_gen/
+/resources/js/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Node modules (if using npm)
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# Temporary files
+.tmp/
+temp/
